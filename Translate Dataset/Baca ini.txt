@@ -1,0 +1,6 @@
+Translate Dataset DS dan NLP
+1. Download Dataset Pada Sumber Utama
+2. Buka melalui Microsoft Excel dan ubah "Text ke Kolom", serta simpan dalam format ".xlsx"
+3. Translate File tersebut menggunakan Google Translate : https://translate.google.com/?source=gtx&sl=en&tl=id&op=docs
+4. Simpan hasil translate dan konversi format ".xlsx" ke ".csv"
+5. Data siap digunakan!
