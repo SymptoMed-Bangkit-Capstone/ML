@@ -12,3 +12,7 @@ export PORT=8080
 
 8080 disesuaikan saja dengan port yang ingin digunakan, jika 8080 udah ada yang menggunakan...maka bisa menggunakan
 port yang lain.
+
+=================================================================================================================
+
+export PATH=$PATH:/place/with/the/file

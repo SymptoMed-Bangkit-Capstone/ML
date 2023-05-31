@@ -1,15 +1,13 @@
 import os
 import uvicorn
-import numpy as np
-from enum import Enum
-import tensorflow as tf
+from fastapi import FastAPI
 from pydantic import BaseModel
 from transformers import TextClassificationPipeline
-from fastapi import FastAPI, HTTPException, Path, Query
 from transformers import BertTokenizer, BertForSequenceClassification
 
 app = FastAPI()  # create a new FastAPI app instance
-port = int(os.getenv("PORT"))
+# port = int(os.getenv("PORT"))
+port = 8080
 
 # Define a Pydantic model for an item
 class Item(BaseModel):
@@ -22,7 +20,7 @@ pipe = TextClassificationPipeline(model=model, tokenizer=tokenizer, top_k = 24)
 def predict(input):
     text = str(input).lower()
     pred = pipe(text)
-    kelas = pred[0][0]['label']
+    kelas = pred[0][0]['label'].title()
     prob = pred[0][0]['score']
     output = "Terdiagnosa sebagai : " + str(kelas)+ ", dengan probabilitas : " +str(round((prob)*100, 2))+'%'
     return(output)
