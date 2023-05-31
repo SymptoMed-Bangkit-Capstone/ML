@@ -35,4 +35,4 @@ def add_item(item: Item):
     return {hasil}
 
 if __name__ == '__main__':
-    uvicorn.run(app, host="0.0.0.0", port=port, timeout_keep_alive=1200)
+    uvicorn.run(app, host="localhost", port=port, timeout_keep_alive=1200)
