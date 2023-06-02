@@ -1,1 +1,1 @@
-# SymptoMed-Bangkit-Captone-Project
+# SymptoMed-Bangkit-Capstone-Project
