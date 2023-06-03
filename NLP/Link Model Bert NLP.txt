@@ -5,3 +5,7 @@ Bert Base Multilingual Cased (Preprocessing) 	: https://drive.google.com/file/d/
 Bert Base Multilingual Cased V2 (Preprocessing) : 
 Model     : https://drive.google.com/file/d/1-92ktdUaxJy96qPBur5yO8b3LN-Ys8ze
 Tokenizer : https://drive.google.com/file/d/1-89UzTTd0stUywsEoeuOknu6HrJucxZc
+
+Merge Bert Base Multilingual Cased :
+Model	  : https://drive.google.com/file/d/1-KOXL1Jp9xOMtB33l-cy-C0Y-dn6XQnD/view?usp=drive_link
+Tokenizer : https://drive.google.com/file/d/1-ZPuX1pnyccjJhWndNr5gUVyuZ473dh4/view?usp=sharing
