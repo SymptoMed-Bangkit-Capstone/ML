@@ -64,7 +64,7 @@ def main_page():
 def add_item(item: Item):
     global data_rekomendasi
 
-    if len(item.query) <= 25:
+    if len(item.query) < 25:
         hasil = 'Karakter terlalu sedikit'
         probability = ''
         link = ''
