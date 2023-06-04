@@ -9,3 +9,7 @@ Tokenizer : https://drive.google.com/file/d/1-89UzTTd0stUywsEoeuOknu6HrJucxZc
 Merge Bert Base Multilingual Cased :
 Model	  : https://drive.google.com/file/d/1-KOXL1Jp9xOMtB33l-cy-C0Y-dn6XQnD/view?usp=drive_link
 Tokenizer : https://drive.google.com/file/d/1-ZPuX1pnyccjJhWndNr5gUVyuZ473dh4/view?usp=sharing
+
+Merge Bert Base Multilingual Cased V2 :
+Model	  : https://drive.google.com/file/d/1-4UgsjpzjjTlyqRn4loCdRsfO40O4Bue/view?usp=share_link
+Tokenizer : https://drive.google.com/file/d/1JyKHo2ZSzp0-G-fG1AnMSRTboSoOF8Zr/view?usp=share_link
