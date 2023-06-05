@@ -13,3 +13,7 @@ Tokenizer : https://drive.google.com/file/d/1-ZPuX1pnyccjJhWndNr5gUVyuZ473dh4/vi
 Merge Bert Base Multilingual Cased V2 :
 Model	  : https://drive.google.com/file/d/1-4UgsjpzjjTlyqRn4loCdRsfO40O4Bue/view?usp=share_link
 Tokenizer : https://drive.google.com/file/d/1JyKHo2ZSzp0-G-fG1AnMSRTboSoOF8Zr/view?usp=share_link
+
+Merge Bert Base Indonesian :
+Model	  : https://drive.google.com/file/d/1-0JDgtTV7rkhJQXT27QhR9UQBDHytgi7/view?usp=drive_link
+Tokenizer : https://drive.google.com/file/d/1M9cRi9yk3dN7moajWKHsBRKfumbfej1P/view?usp=drive_link
