@@ -24,7 +24,7 @@ pipe = TextClassificationPipeline(model=model, tokenizer=tokenizer, top_k = 24)
 
 factory = StopWordRemoverFactory()
 addStopwords = ['dengan', 'ia', 'bahwa', 'oleh', 'saya']
-removeStopwords = ['namun', 'tidak', 'setelah', 'masih', 'dengan', "merasakan", "adanya", "ada"]
+removeStopwords = ['atau', 'dalam', 'dan', 'dari', 'di', 'ke', 'pada', 'saat','sekitar', 'seperti', 'tidak', 'yang']
 stopWords = factory.get_stop_words()+addStopwords
 
 for removeStopword in removeStopwords:
