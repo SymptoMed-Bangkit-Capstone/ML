@@ -22,6 +22,12 @@ The NLP model involves the following steps:
 
 The NLP model achieved an evaluation accuracy of 99.1% in classifying diseases based on user narratives.
 
+## Usage
+To use the application and leverage the disease classification models, follow these steps:
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the application and provide user input narratives for disease classification.
 
 
 
