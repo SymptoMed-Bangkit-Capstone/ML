@@ -7,3 +7,24 @@ The evaluation of the machine learning models in Data Science involved a compreh
   3. Shallow NN: The utilization of a Shallow Neural Network yielded an accuracy of 99%. This model leveraged the power of neural networks to learn intricate relationships within the data, enabling more precise disease classification and symptom identification.
 
 The evaluation results indicate that these machine-learning models have proven to be effective in accurately classifying disease types and symptoms. These findings provide valuable insights for further research and potential applications in the medical field, contributing to improved diagnostics and treatment strategies.
+
+## NLP-ML
+The NLP model in this application is designed to classify diseases based on user-provided narratives that describe their symptoms. The model is based on transfer learning with BERT Base Indonesian.
+
+The NLP model involves the following steps:
+
+1. Fine-tuning the BERT Base Indonesian model.
+2. Various preprocessing steps, including replacing column names, tokenizing, implementing stopwords using Sastrawi.
+3. Performing text transformations on the dataset.
+4. Label encoding for the target variable.
+5. Dataset splitting for training and evaluation.
+6. Utilizing a data pipeline for efficient model serving.
+
+The NLP model achieved an evaluation accuracy of 99.1% in classifying diseases based on user narratives.
+
+
+
+
+
+
+
